@@ -1,0 +1,4 @@
+export const ADD_NEWMOVIE='ADD_NEWMOVIE';
+export const EDIT_NEWMOVIE='EDIT_NEWMOVIE';
+export const SEARCH_WORD='SEARCH_WORD';
+export const SEARCH_RATE='SEARCH_RATE';
